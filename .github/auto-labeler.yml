@@ -1,0 +1,14 @@
+bug:
+  - 'fix'
+  - 'bug'
+  - 'error'
+
+feature:
+  - 'feature'
+  - 'add'
+  - 'enhancement'
+
+documentation:
+  - 'doc'
+  - 'readme'
+  - '*.md'
