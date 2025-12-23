@@ -1,6 +1,5 @@
 #Variables
 
-#Resourcegroup name
 variable "rg_name" {
   type = string
 }
