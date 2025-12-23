@@ -1,0 +1,13 @@
+bug:
+  title:
+    - fix
+    - bug
+
+feature:
+  title:
+    - feature
+    - add
+
+documentation:
+  files:
+    - "*.md"
